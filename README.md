@@ -21,3 +21,11 @@ I found using satellites, UAV’s, and image analysis with Deep Learning signifi
 2. Simulated results using a systems engineering software called Systems Tool Kit (STK). 
 
 <img src=STK_simulation.png width="750">
+
+## Authors
+
+- **Alex Lavaee**
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
