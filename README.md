@@ -1,5 +1,13 @@
 # Disaster-Relief-Project
 
+## Table of Contents
+
+- [Data Preparation Notebook](data_preparation.ipynb)
+- [Algorithm Notebook](disaster_model.ipynb)
+- STK API Simulation Helper Functions
+  - [Search simulator](search_simulator.py)
+  - [Survivor simulator](survivor_simulator.py)
+
 I found using satellites, UAV’s, and image analysis with Deep Learning significantly shortens search and rescue time (from days to hrs) in natural disasters. 
 
 <img src="ML_pipeline.png" width="750">
@@ -12,11 +20,3 @@ I found using satellites, UAV’s, and image analysis with Deep Learning signifi
 2. Simulated results using a systems engineering software called Systems Tool Kit (STK). 
 
 <img src=STK_simulation.png width="750">
-
-## Table of Contents
-
-- [Data Preparation Notebook](data_preparation.ipynb)
-- [Algorithm Notebook](disaster_model.ipynb)
-- STK API Simulation Helper Functions
-  - [Search simulator](search_simulator.py)
-  - [Survivor simulator](survivor_simulator.py)
