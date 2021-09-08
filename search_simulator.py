@@ -23,6 +23,3 @@ def random_waypoints(aircraft_name, area, num_points, lat=37.6213, long=-122.379
                 root.ExecuteCommand(f'AddWaypoint */Aircraft/{aircraft_name} DetTimeAccFromVel {lat} {long} {alt} 1.0')
                 
     root.ExecuteCommand(f'AddWaypoint */Aircraft/{aircraft_name} DetTimeAccFromVel {temp_lat} {temp_long} {alt} 1.0')
-
-
-
