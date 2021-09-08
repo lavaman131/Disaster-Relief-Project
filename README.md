@@ -8,6 +8,7 @@
   - [Search simulator](search_simulator.py)
   - [Survivor simulator](survivor_simulator.py)
 
+## Findings
 I found using satellites, UAV’s, and image analysis with Deep Learning significantly shortens search and rescue time (from days to hrs) in natural disasters. 
 
 <img src="ML_pipeline.png" width="750">
